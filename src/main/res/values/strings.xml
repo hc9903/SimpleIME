@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleIME</string>
+    <string name="subtype_en_US">English (United States)</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+</resources>

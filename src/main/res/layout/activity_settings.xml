@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/button1_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 1 Name(姓名)" />
+
+    <EditText
+        android:id="@+id/button1_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 1 Text" />
+
+    <EditText
+        android:id="@+id/button2_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 2 Name(学号)" />
+
+    <EditText
+        android:id="@+id/button2_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 2 Text" />
+
+    <EditText
+        android:id="@+id/button3_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 3 Name(QQ号码)" />
+
+    <EditText
+        android:id="@+id/button3_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 3 Text" />
+
+    <EditText
+        android:id="@+id/button4_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 4 Name(电话号码)" />
+
+    <EditText
+        android:id="@+id/button4_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Button 4 Text" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+    <Button
+        android:id="@+id/open_input_method_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open input method settings" />
+
+
+</LinearLayout>
